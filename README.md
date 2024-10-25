@@ -1,2 +1,2 @@
-# Iterators_Python
+# Generators_Python
 Цель: более глубоко понять особенности работы с функциями генераторами и оператором yield в Python.
